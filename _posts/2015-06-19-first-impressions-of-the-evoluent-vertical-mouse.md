@@ -3,7 +3,9 @@ title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless
 layout: post
 ---
 
-After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="">this video</a> as well as my friends <a href="">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
+# First Impressions of the Evoluent Vertical Wireless Mouse
+
+After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friends <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
 
 The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye, in the meantime. Enter: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
 
@@ -22,7 +24,11 @@ Next, I searched out the OS X drivers online. Found them quickly at the <a href=
 
 Post-reboot, I was up and running with my new vertical mouse. Oh, right, need to turn it on by toggling a small switch on the underside. The mouse will shut off after some time without use and come back to life with resumed usage. The product page claims 3-5 months of use on the single AA battery. Great - now I'm clicking!
 
-Middle click didn't seem to be firing a middle-click event, so I opened up the Evoluent panel in system preferences to be greeted by this screen: http://i.imgur.com/sWZGGli.png, which shows my post-tweaking configuration. There's opportunity to customize it quite a bit, including the option to enable, essentially, a function key, to overload secondary functions on the main mouse buttons. Currently, I'm trying out copy, cut and paste using secondary-one, -two, and -three buttons. Neat.
+Middle click didn't seem to be firing a middle-click event, so I opened up the Evoluent panel in system preferences to be greeted by this screen:
+
+![Evoluent OS X system preferences screenshot](http://i.imgur.com/sWZGGli.png)
+
+which shows my post-tweaking configuration. There's opportunity to customize it quite a bit, including the option to enable, essentially, a function key, to overload secondary functions on the main mouse buttons. Currently, I'm trying out copy, cut and paste using secondary-one, -two, and -three buttons. Neat.
 
 This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.
 
