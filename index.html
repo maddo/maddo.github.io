@@ -1,15 +1,118 @@
----
-layout: default
-title: Michael Adam Jablecki
----
-<div id="home">
-    <h1>{{ page.title }}</h1>
-    <h2>Blog Posts</h2>
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Jablecki&#39;s Dev Notes by maddo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Jablecki&#39;s Dev Notes</h1>
+      <h2 class="project-tagline">don&#39;t research twice</h2>
+    </section>
+
+    <section class="main-content">
+      <hr>
+
+<p>title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless</p>
+
+<h2>
+<a id="layout-post" class="anchor" href="#layout-post" aria-hidden="true"><span class="octicon octicon-link"></span></a>layout: post</h2>
+
+<h1>
+<a id="-pagetitle-" class="anchor" href="#-pagetitle-" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{ page.title }}</h1>
+
+<p>19 Jun 2015 - Providence</p>
+
+<p>After playing with plan9's editor Acme, with its radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.</p>
+
+<p>The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>*!</p>
+
+<h2>
+<a id="expectations" class="anchor" href="#expectations" aria-hidden="true"><span class="octicon octicon-link"></span></a>Expectations</h2>
+
+<p>Feel free to read up on vertical mice. The basic concept behind the ergonomics centers on keeping your hand in the "handshake" position, claimed to be more natural than the palm-down pose of a traditional mouse.</p>
+
+<p>While waiting for its arrival, I continued to read and watch reviews, and noted a couple of complaints worth checking up on:</p>
+
+<ol>
+<li>Lower right base of the hand getting sore from increased contact with the table</li>
+<li>It's tough to quickly switch from keyboard to mouse, as it's vertical design requires more height clearance</li>
+<li>It's easier to accidentally click the buttons</li>
+<li>Bluetooth wireless doesn't work so well</li>
+</ol>
+
+<h2>
+<a id="unboxing" class="anchor" href="#unboxing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Unboxing</h2>
+
+<p>Right out of the box, I was presented with my first mini-challenge. I was happy to see the bluetooth usb dongle and a battery, but it was unclear where the battery went. A cursory search within the included tri-fold, single sheet product info revealed nothing. A quick dig through search engine results similarly revealed nothing. Throwing caution aside, I started pushing and pulling at a small plastic rectangle on the underside of the mouse - bingo! Battery in!</p>
+
+<p>Next, I searched out the OS X drivers online. Found them quickly at the <a href="http://evoluent.com/support/download/">official site</a>. Ooh, a pkg file. Oh, restart required. -1 fake internet points for Evoluent.</p>
+
+<p>Post-reboot, I was up and running with my new vertical mouse. Oh, right, need to turn it on by toggling a small switch on the underside. The mouse will shut off after some time without use and come back to life with resumed usage. The product page claims 3-5 months of use on the single AA battery. Great - now I'm clicking!</p>
+
+<p>Middle click didn't seem to be firing a middle-click event, so I opened up the Evoluent panel in system preferences to be greeted by this screen:</p>
+
+<p><img src="http://i.imgur.com/sWZGGli.png" alt="Evoluent OS X system preferences screenshot"></p>
+
+<p>which shows my post-tweaking configuration. There's opportunity to customize it quite a bit, including the option to enable, essentially, a function key, to overload secondary functions on the main mouse buttons. Currently, I'm trying out copy, cut and paste using secondary-one, -two, and -three buttons. Neat.</p>
+
+<p>Unlike a traditional mouse, the weight and shape of this vertical mouse prevents you from picking it up with one hand when you run out of mousing-space (say: bump into your keyboard or some other item on your desk). I quickly figured out that you could tilt the whole mouse right, up on it's side a bit, which is enough to stop it from tracking, and you can easily reposition it at this point.</p>
+
+<p>My keyboard tray has a mild downward slope. I found that this mouse, left alone, tends to slide until it bumps the wrist wrest, whereas my prior mouse (a <a href="http://www.razerzone.com/store/razer-deathadder">Razer DeathAdder</a>*) would sit tight. Whether this is due to the weight or relative friction of bottom-facing materials, I'm not certain.</p>
+
+<p>This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.</p>
+
+<h2>
+<a id="recap--summary" class="anchor" href="#recap--summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Recap &amp; Summary</h2>
+
+<p>As for the 4 points I wanted to look out for, in rapid fire:</p>
+
+<ol>
+<li>Lower right base of the hand getting sore from increased contact with the table
+
+<ul>
+<li>No indication of this yet.</li>
+</ul>
+</li>
+<li>It's tough to quickly switch from keyboard to mouse, as it's vertical design requires more height clearance
+
+<ul>
+<li>The new form factor takes some getting used to. At one point, I switched from keyboard to mouse quickly and sort of crashed my hand down on top of the mouse, expecting the lower-profile traditional mouse. Later, I swept the mouse clear off the keyboard tray, barely catching it before it hit the ground. Then I did that again. I suppose at some point I'll get used to it.</li>
+</ul>
+</li>
+<li>It's easier to accidentally click the buttons
+
+<ul>
+<li>I didn't notice this either.</li>
+</ul>
+</li>
+<li>Bluetooth wireless doesn't work so well
+
+<ul>
+<li>So far so good! No lag or noticeable loss of precision.</li>
+</ul>
+</li>
+</ol>
+
+<p>All in all - I'm happy with the ergonomics and excited to give the secondary functions a serious try. I'll may write a follow up post after extended use.</p>
+
+<hr>
+
+<p>* Not affiliate links</p>
+
+      <footer class="site-footer">
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
+
