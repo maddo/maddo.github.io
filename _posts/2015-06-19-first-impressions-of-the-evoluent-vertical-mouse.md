@@ -9,6 +9,8 @@ After playing with plan9's editor Acme, who's radicalized usage of mouse buttons
 
 The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye, in the meantime. Enter: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
 
+### Expectations
+
 Feel free to read up on the vertical mice, but the basic concept behind the ergonomics is that it keeps your hand in the "handshake" position, which is a bit more "natural" than the palm-down pose of normal mice.
 
 While waiting for it to arrive, I continued to read and watch reviews, and noted a couple of sticking points I'd have to check out.
@@ -17,6 +19,8 @@ While waiting for it to arrive, I continued to read and watch reviews, and noted
 1. It's tough to get the hand up and over the mouse to the keyboard, due to it's vertical design
 1. It's easier to accidentally click the buttons
 1. Bluetooth wireless doesn't work so well
+
+### Unboxing
 
 Right out of the box, I was presented with my first mini-challenge. I was happy to see the bluetooth usb dongle and a battery, but it was unclear where the battery went. A cursory search within the included tri-fold, single sheet product info revealed nothing. A quick dig through search engine results similarly revealed nothing. Throwing caution aside, I started pushing and pulling at a small plastic rectangle on the underside of the mouse - bingo! Battery in!
 
@@ -32,6 +36,10 @@ which shows my post-tweaking configuration. There's opportunity to customize it 
 
 This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.
 
+Unlike a traditional mouse, the weight and shape of this vertical mouse prevents you from picking it up with one hand when you run out of mousing-space (say: bump into your keyboard or some other item on your desk). I quickly figured out that you could tilt the whole mouse right, up on it's side a bit, which is enough to stop it from tracking, and you can easily reposition it at this point.
+
+### Recap & Summary
+
 As for the 4 points I wanted to look out for, in rapid fire:
 
 1. New sore point on the lower right base of hand, where more contact is made
@@ -43,7 +51,7 @@ As for the 4 points I wanted to look out for, in rapid fire:
 1. Bluetooth wireless doesn't work so well
  - So far so good! Lag or noticeable loss of precision.
 
-Unlike a traditional mouse, the weight and shape of this vertical mouse prevents you from picking it up with one hand when you run out of mousing-space (say: bump into your keyboard or some other item on your desk). I quickly figured out that you could tilt the whole mouse right, up on it's side a bit, which is enough to stop it from tracking, and you can easily reposition it at this point.
+All in all - I'm happy with the ergonomics and excited to give the secondary functions a serious try. I'll may write a follow up post after extended use.
 
 ___
 * Not affiliate links
