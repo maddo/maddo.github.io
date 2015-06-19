@@ -41,7 +41,7 @@ As for the 4 points I wanted to look out for, in rapid fire:
 1. It's easier to accidentally click the buttons
  - I didn't notice this either.
 1. Bluetooth wireless doesn't work so well
- - So far so good! Lag or noticable loss of precision.
+ - So far so good! Lag or noticeable loss of precision.
 
 Unlike a traditional mouse, the weight and shape of this vertical mouse prevents you from picking it up with one hand when you run out of mousing-space (say: bump into your keyboard or some other item on your desk). I quickly figured out that you could tilt the whole mouse right, up on it's side a bit, which is enough to stop it from tracking, and you can easily reposition it at this point.
 
