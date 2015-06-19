@@ -3,13 +3,15 @@ title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless
 layout: post
 ---
 
-# First Impressions of the Evoluent Vertical Wireless Mouse
+# {{ page.title }}
+
+19 Jun 2015 - Providence
 
 After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
 
 The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye, in the meantime. Enter: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
 
-### Expectations
+## Expectations
 
 Feel free to read up on the vertical mice, but the basic concept behind the ergonomics is that it keeps your hand in the "handshake" position, which is a bit more "natural" than the palm-down pose of normal mice.
 
@@ -20,7 +22,7 @@ While waiting for it to arrive, I continued to read and watch reviews, and noted
 1. It's easier to accidentally click the buttons
 1. Bluetooth wireless doesn't work so well
 
-### Unboxing
+## Unboxing
 
 Right out of the box, I was presented with my first mini-challenge. I was happy to see the bluetooth usb dongle and a battery, but it was unclear where the battery went. A cursory search within the included tri-fold, single sheet product info revealed nothing. A quick dig through search engine results similarly revealed nothing. Throwing caution aside, I started pushing and pulling at a small plastic rectangle on the underside of the mouse - bingo! Battery in!
 
@@ -40,7 +42,7 @@ My keyboard tray has a mild downward slope. I found that this mouse, left alone,
 
 This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.
 
-### Recap & Summary
+## Recap & Summary
 
 As for the 4 points I wanted to look out for, in rapid fire:
 
