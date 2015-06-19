@@ -1,1 +1,1 @@
-{"name":"Jablecki's Dev Notes","tagline":"don't research twice","body":"### Todo\r\n* Write this page","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Jablecki's Dev Notes","tagline":"don't research twice","body":"### Todo\r\n* Write this page\r\n\r\n```php\r\n$fake = codeSnippit($lol);\r\nunset($fake);\r\n$sureWhyNot = true;\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
