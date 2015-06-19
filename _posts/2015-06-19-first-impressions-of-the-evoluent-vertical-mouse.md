@@ -7,18 +7,18 @@ layout: post
 
 19 Jun 2015 - Providence
 
-After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
+After playing with plan9's editor Acme, with its radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
 
-The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye, in the meantime. Enter: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
+The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
 
 ## Expectations
 
-Feel free to read up on the vertical mice, but the basic concept behind the ergonomics is that it keeps your hand in the "handshake" position, which is a bit more "natural" than the palm-down pose of normal mice.
+Feel free to read up on vertical mice. The basic concept behind the ergonomics centers on keeping your hand in the "handshake" position, claimed to be more natural than the palm-down pose of a traditional mouse.
 
-While waiting for it to arrive, I continued to read and watch reviews, and noted a couple of sticking points I'd have to check out.
+While waiting for its arrival, I continued to read and watch reviews, and noted a couple of complaints worth checking up on:
 
-1. New sore point on the lower right base of hand, where more contact is made
-1. It's tough to get the hand up and over the mouse to the keyboard, due to it's vertical design
+1. Lower right base of the hand getting sore from increased contact with the table
+1. It's tough to quickly switch from keyboard to mouse, as it's vertical design requires more height clearance
 1. It's easier to accidentally click the buttons
 1. Bluetooth wireless doesn't work so well
 
@@ -46,9 +46,9 @@ This early in the game, I don't have any feedback on the ergonomic claims. I'm a
 
 As for the 4 points I wanted to look out for, in rapid fire:
 
-1. New sore point on the lower right base of hand, where more contact is made
+1. Lower right base of the hand getting sore from increased contact with the table
  - No indication of this yet.
-1. It's tough to get the hand up and over the mouse to the keyboard, due to it's vertical design
+1. It's tough to quickly switch from keyboard to mouse, as it's vertical design requires more height clearance
  - The new form factor takes some getting used to. At one point, I switched from keyboard to mouse quickly and sort of crashed my hand down on top of the mouse, expecting the lower-profile traditional mouse. Later, I swept the mouse clear off the keyboard tray, barely catching it before it hit the ground. Then I did that again. I suppose at some point I'll get used to it.
 1. It's easier to accidentally click the buttons
  - I didn't notice this either.
