@@ -34,9 +34,11 @@ Middle click didn't seem to be firing a middle-click event, so I opened up the E
 
 which shows my post-tweaking configuration. There's opportunity to customize it quite a bit, including the option to enable, essentially, a function key, to overload secondary functions on the main mouse buttons. Currently, I'm trying out copy, cut and paste using secondary-one, -two, and -three buttons. Neat.
 
-This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.
-
 Unlike a traditional mouse, the weight and shape of this vertical mouse prevents you from picking it up with one hand when you run out of mousing-space (say: bump into your keyboard or some other item on your desk). I quickly figured out that you could tilt the whole mouse right, up on it's side a bit, which is enough to stop it from tracking, and you can easily reposition it at this point.
+
+My keyboard tray has a mild downward slope. I found that this mouse, left alone, tends to slide until it bumps the wrist wrest, whereas my prior mouse (a <a href="http://www.razerzone.com/store/razer-deathadder">Razer DeathAdder</a>\*) would sit tight. Whether this is due to the weight or relative friction of bottom-facing materials, I'm not certain.
+
+This early in the game, I don't have any feedback on the ergonomic claims. I'm a bit skeptic at this point - I wonder if the mere act of altering my mouse ergonomics after 20 years of training my arm to use the standard mouse will do more harm than good.
 
 ### Recap & Summary
 
@@ -54,4 +56,4 @@ As for the 4 points I wanted to look out for, in rapid fire:
 All in all - I'm happy with the ergonomics and excited to give the secondary functions a serious try. I'll may write a follow up post after extended use.
 
 ___
-* Not affiliate links
+\* Not affiliate links
