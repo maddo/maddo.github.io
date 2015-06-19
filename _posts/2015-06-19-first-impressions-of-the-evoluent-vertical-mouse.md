@@ -51,7 +51,7 @@ As for the 4 points I wanted to look out for, in rapid fire:
 1. It's easier to accidentally click the buttons
  - I didn't notice this either.
 1. Bluetooth wireless doesn't work so well
- - So far so good! Lag or noticeable loss of precision.
+ - So far so good! No lag or noticeable loss of precision.
 
 All in all - I'm happy with the ergonomics and excited to give the secondary functions a serious try. I'll may write a follow up post after extended use.
 
