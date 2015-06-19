@@ -5,7 +5,7 @@ layout: post
 
 # First Impressions of the Evoluent Vertical Wireless Mouse
 
-After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friends <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
+After playing with plan9's editor Acme, who's radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.
 
 The first mouse I found was was <a href="http://www.amazon.com/gp/product/B00007DTC6">this simple IBM 3-button mouse</a>\*, with a "scroll point" separate from the middle button. However, that's been slow to arrive, and something else shiny caught my eye, in the meantime. Enter: <a href="http://evoluent.com/products/vm4rm/">the Evoluent vertical mouse</a>\*!
 
