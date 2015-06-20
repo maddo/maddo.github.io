@@ -7,11 +7,12 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #000;
+  background-color: #ffffeb;}
 
 a {
-  color: #1e6bb8;
-  text-decoration: none; }
+  color: #0031CA;
+  text-decoration: underline; }
   a:hover {
     text-decoration: underline; }
 
@@ -54,7 +55,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #000;
+  /*color: #000;*/
   text-align: center; }
 
 @media screen and (min-width: 64em) {
@@ -63,7 +64,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 1rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
@@ -86,7 +87,7 @@ a {
     font-size: 1.75rem; } }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  margin-bottom: 0rem;
   font-weight: normal;
   opacity: 0.7; }
 
