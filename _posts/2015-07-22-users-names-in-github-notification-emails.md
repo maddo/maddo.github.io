@@ -1,5 +1,5 @@
 ---
-title: Don't use user's names for Github notification emails
+title: User's names in Github notification emails
 layout: post
 published: yes
 ---
@@ -18,6 +18,7 @@ When a user comments on a pull request, attached parties will receive an email s
 The precise damage of this mixing of a unique user's name and a general Github email address depends on the client being used, and the awareness of the email client user.
 
 Two side effects I've noticed include:
+
 * Accidentally sending an email to `notifications@github.com` when intending to send an email to an individual
 * Certain email clients build up a contact list automatically, based on the from field. If you already have Joe Schmoe's email in your address book, you might end up with two entries for Joe, one of which is useless:
     * `Joe Schmoe <jschm@gmail.com>`
