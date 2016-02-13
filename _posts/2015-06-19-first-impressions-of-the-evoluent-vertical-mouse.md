@@ -3,8 +3,6 @@ title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless
 layout: post
 ---
 
-# {{ page.title }}
-
 19 Jun 2015 - Providence
 
 After playing with plan9's editor Acme, with its radicalized usage of mouse buttons one, two and three (check out <a href="http://research.swtch.com/acme">this video</a> as well as my friend's <a href="http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/">series of posts about Acme</a>), I started looking around for a 3-button mouse -- that is, a mouse which separates the middle button from the scroll wheel.

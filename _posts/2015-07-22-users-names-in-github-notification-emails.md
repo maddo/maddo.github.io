@@ -4,8 +4,6 @@ layout: post
 published: yes
 ---
 
-# {{ page.title }}
-
 22 Jul 2015 - Buenos Aires
 
 Throughout years of using Github, I've encountered a minor annoyance related to the reply-to field of Github notifications.
