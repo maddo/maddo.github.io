@@ -2,9 +2,9 @@
 title: Anti-talking Points
 layout: post
 published: no
+date:
+location: Providence
 ---
-
-12 Feb 2016 - Providence
 
 I've never written about politics. I've never even paid much attention to politics. I'm tempted to hedge my personal opinion with glancing platitudes and meta commentary
 

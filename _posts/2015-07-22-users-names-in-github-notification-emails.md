@@ -1,10 +1,9 @@
 ---
 title: User's names in Github notification emails
 layout: post
-published: yes
+date: 22 Jul 2015
+location: Buenos Aires
 ---
-
-22 Jul 2015 - Buenos Aires
 
 Throughout years of using Github, I've encountered a minor annoyance related to the reply-to field of Github notifications.
 

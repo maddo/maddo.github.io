@@ -1,9 +1,9 @@
 ---
 title: You got it Godin!
 layout: post
+date: 12 Feb 2016
+locatipn: Providence
 ---
-
-12 Feb 2016 - Providence
 
 I don't go in for New Year's resolutions, but it's mid-February and I'm bursting at the seams with motivation. What's going on right now? Here's tiny list of Good Things I'm keeping going:
 

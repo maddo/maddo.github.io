@@ -1,10 +1,9 @@
 ---
 title: Write Every Day
 layout: post
-published: yes
+date: 13 Feb 2016
+location: Providence
 ---
-
-13 Feb 2016 - Providence
 
 Seth Godin [says to write every day](http://sethgodin.typepad.com/seths_blog/2011/09/talkers-block.html). Write in a blog, or in a journal if you want to. But public is better.
 
