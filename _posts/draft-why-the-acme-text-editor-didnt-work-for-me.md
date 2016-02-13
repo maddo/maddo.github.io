@@ -4,6 +4,4 @@ layout: post
 published: no
 ---
 
-# {{ page.title }}
-
 20 Jun 2015 - Providence
