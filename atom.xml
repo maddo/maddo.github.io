@@ -10,7 +10,7 @@
  <id>http://maddo.github.io/</id>
  <author>
    <name>Michael Adam Jablecki</name>
-   <email>mjablecki@gmail.com</email>
+   <email>mike@jableci.org</email>
  </author>
 
  {% for post in site.posts %}
