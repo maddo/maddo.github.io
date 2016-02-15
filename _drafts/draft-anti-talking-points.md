@@ -2,7 +2,7 @@
 title: Anti-talking Points
 layout: post
 published: no
-date:
+date: 13 Feb 2016
 location: Providence
 ---
 
