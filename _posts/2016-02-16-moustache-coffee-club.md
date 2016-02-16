@@ -7,9 +7,11 @@ location: Providence
 
 Soon, you'll see a post here about me roasting my own coffee beans. It's coming, but not quite yet.
 
-In the meantime, I heartily recommend Moustache Coffee Club. I've been ordering coffee from them for over a year now. I even sent short subscriptions to a couple of friends for Christmas. They source their beans from (US) west coast roasters and every new bag has been the best coffee I've ever had in my life. I get one bag per month and supplement each month with some local beans, for variety.
+In the meantime, I heartily recommend Moustache Coffee Club. I've been ordering beans from them since September 2014. This Christmas I even gifted short subscriptions to a couple of friends.
 
-Try these beans:
+They initially ask for a basic idea of what flavors you like, then they choose and send you beans on the schedule you choose. They source their beans from (US) west coast roasters. I get one bag per month and supplement each month with some local beans, for variety.
+
+Every new bag-o-beans has been amazing. Try them out!
 
 * Affiliate link: [http://www.moustachecoffeeclub.com/invites/d7ec7263]()
 * Non-affiliate link: [http://www.moustachecoffeeclub.com/]()
