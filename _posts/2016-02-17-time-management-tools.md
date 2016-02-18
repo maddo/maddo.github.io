@@ -13,7 +13,7 @@ Ever catch up with your brain and realize it was way ahead of you all along? The
 
 It's a hobby project, it's going to take a while, but it's already been in the works for years, willing itself into existence, carved from the negative space left by lacking apps.
 
-What has been missing? Here are a few ideas:
+What's been missing? Here are a few ideas:
 
 * Time blocking with both static and fluid objects (I finished early, move my plans around, but not the scheduled call with the CEO)
 * Time blocks which can draught from context lists (from noon to 4pm feed me items tagged "project x")
