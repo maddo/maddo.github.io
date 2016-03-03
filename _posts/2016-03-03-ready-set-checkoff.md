@@ -5,7 +5,7 @@ date: 03 March 2016
 location: Providence
 ---
 
-The past 5 years or so has been hugely successful for cleaning up my life-long check-list. For example:
+The past 5 years or so have been hugely successful for cleaning up my life-long check-list. For example:
 
 1. Learn to play the guitar
 1. Write a song
