@@ -12,6 +12,7 @@ Two weeks ago I mentioned some useful daily habits I was working on. Here's a qu
 Going strong. Excellent source of new data for my brain to munch on. Generally listening to productivity, finance or humor. I'll list the podcasts I actually listen to regularly at the end.
 
 ### Practicing Dvorak
+
 Great - I can now type with the dvorak, but slowly. Continuing to practice to pick up speed. Using [the typing cat typing tutor](http://thetypingcat.com/course) and chatting for at least a few minutes a day with the layout selected. Painfully slow, but working.
 
 ### Headspace.com
@@ -20,7 +21,7 @@ I picked up a subscription [Headspace](https://www.headspace.com) to keep going,
 
 ### Crossfit
 
-Going strong. Minimum of 2 days a week, and Gaby and are setting the goal of going 3 days a week for all of March. We're putting this month in turbo mode by adding [Whole 30](http://whole30.com/). We [did it once before](http://whole30food.blogspot.com/) and loved it!
+Going strong. Minimum of 2 days a week, and Gaby and I are setting the goal of going 3 days a week for all of March. We're putting this month in turbo mode by adding [Whole 30](http://whole30.com/). We [did it once before](http://whole30food.blogspot.com/) and loved it!
 
 ### Writing every day?
 
