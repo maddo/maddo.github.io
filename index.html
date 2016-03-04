@@ -13,6 +13,7 @@ title: Michael Adam Jablecki
          <h1 class="post-title" itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
         <p class="post-meta">
           <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+          - <i>{{ post.location }}</i>
         </p>
       </header>
 
@@ -21,6 +22,8 @@ title: Michael Adam Jablecki
       </div>
 
     </article>
+
+    <hr>
 
     {% endfor %}
   </div>
