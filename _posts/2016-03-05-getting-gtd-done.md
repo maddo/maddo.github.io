@@ -1,7 +1,6 @@
 ---
 title: Getting GTD Done
 layout: post
-post: no
 date: 05 March 2016
 location: Providence
 ---
