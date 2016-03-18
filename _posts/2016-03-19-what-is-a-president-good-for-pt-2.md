@@ -1,7 +1,7 @@
 ---
 title: What is a President Good For? Part 2
 layout: post
-publish: no
+published: false
 date: 19 March 2016
 location: Providence
 ---
