@@ -1,7 +1,7 @@
 ---
 title: Inverted Aeropress Instructions
 layout: post
-publish: no
+publish: false
 date: 10 March 2016
 location: Providence
 ---
