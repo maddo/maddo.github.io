@@ -7,7 +7,7 @@ author_avatar: mike
 author_name: Mike Jablecki
 title: Mike Jablecki
 fav_posts:
-  post_1 : ['You got it Godin', 'you-got-it-godin/', 'A reaction to Godin putting a fire under me. To write well, you have to write badly, to write badly, you have to write.']
+  post_1 : ['You got it Godin', 'you-got-it-godin', 'A reaction to Godin putting a fire under me. To write well, you have to write badly, to write badly, you have to write.']
 
 ---
 
