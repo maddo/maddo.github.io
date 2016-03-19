@@ -10,8 +10,8 @@ author_avatar: mike
 show_avatar: false
 read_time: 5
 feature_image: feature-politics
-show_related_posts: false
-square_related: recommend-politics
+show_related_posts: true
+square_related: square-politics
 location: Providence
 ---
 

@@ -9,8 +9,8 @@ author_avatar: mike
 show_avatar: false
 read_time: 3
 feature_image: feature-go
-show_related_posts: false
-square_related: feature-go
+show_related_posts: true
+square_related: square-go
 location: Providence
 ---
 

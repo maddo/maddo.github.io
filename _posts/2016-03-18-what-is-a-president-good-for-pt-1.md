@@ -10,8 +10,8 @@ show_avatar: false
 location: Providence
 read_time: 1
 feature_image: feature-politics
-show_related_posts: false
-square_related: recommend-politics
+show_related_posts: true
+square_related: square-politics
 ---
 
 I've never paid much attention to politics. Presidential elections brought me in the same way that the Super Bowl pulls in non-fans - it's a Big Show. This is important to realize.
