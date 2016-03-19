@@ -8,9 +8,9 @@ author_url: /author/mike
 author_avatar: mike
 show_avatar: false
 read_time: 3
-feature_image: feature-coffee
+feature_image: feature-motivation
 show_related_posts: false
-square_related: feature-coffee
+square_related: feature-motivation
 location: Providence
 ---
 
