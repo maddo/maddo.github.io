@@ -7,7 +7,7 @@ author_name: Mike
 author_url: /author/mike
 author_avatar: mike
 show_avatar: false
-read_time: 5
+read_time: 2
 feature_image: feature-motivation
 show_related_posts: false
 square_related: feature-motivation
