@@ -1,7 +1,16 @@
 ---
-title: Moustache Coffee Club
 layout: post
+title: Moustache Coffee Club
 date: 16 Feb 2016
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 3
+feature_image: feature-coffee
+show_related_posts: false
+square_related: feature-coffee
 location: Providence
 ---
 

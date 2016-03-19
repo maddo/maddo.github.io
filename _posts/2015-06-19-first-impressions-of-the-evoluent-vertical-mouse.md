@@ -1,7 +1,16 @@
 ---
-title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless
 layout: post
+title: First Impressions of the Evoluent Vertical Mouse 4 Right Wireless
 date: 19 Jun 2015
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 7
+feature_image: feature-work
+show_related_posts: false
+square_related: recommend-work
 location: Providence
 ---
 

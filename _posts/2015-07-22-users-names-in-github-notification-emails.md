@@ -1,7 +1,16 @@
 ---
-title: User's names in Github notification emails
 layout: post
+title: User's names in Github notification emails
 date: 22 Jul 2015
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 5
+feature_image: feature-work
+show_related_posts: false
+square_related: feature-work
 location: Buenos Aires
 ---
 

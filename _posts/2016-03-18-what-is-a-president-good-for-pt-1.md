@@ -1,8 +1,17 @@
 ---
-title: What is a President Good For? Part 1
 layout: post
+title:  What is a President Good For - Part One
 date: 18 March 2016
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
 location: Providence
+read_time: 1
+feature_image: feature-politics
+show_related_posts: false
+square_related: recommend-politics
 ---
 
 I've never paid much attention to politics. Presidential elections brought me in the same way that the Super Bowl pulls in non-fans - it's a Big Show. This is important to realize.

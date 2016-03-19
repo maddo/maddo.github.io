@@ -1,7 +1,16 @@
 ---
-title: Revisiting Godin
 layout: post
+title: Revisiting Godin
 date: 02 March 2016
+categories: motivation
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 5
+feature_image: feature-motivation
+show_related_posts: false
+square_related: feature-motivation
 location: Providence
 ---
 
@@ -29,7 +38,7 @@ Well, writing is, by far, my most public promise, and the archives are embarrass
 
 ![But you have heard of me]({{ site.url }}/images/but-you-have-heard-of-me.jpg)
 
-*"but you have heard of me"* - __Pirate__ Jack Sparrow
+*"but you have heard of me"* - __Bad__ Pirate Jack Sparrow
 
 ##### List of Podcasts
 

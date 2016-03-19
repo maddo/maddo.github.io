@@ -1,7 +1,16 @@
 ---
-title: Why do bees pump their abdomen?
 layout: post
+title: Why do bees pump their abdomen?
 date: 08 March 2016
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 3
+feature_image: feature-nature
+show_related_posts: false
+square_related: feature-nature
 location: Providence
 ---
 
