@@ -1,7 +1,16 @@
 ---
-title: Write Every Day
 layout: post
+title: Write Every Day
 date: 13 Feb 2016
+categories: motivation
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 5
+feature_image: feature-motivation
+show_related_posts: false
+square_related: feature-motivation
 location: Providence
 ---
 

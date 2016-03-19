@@ -1,7 +1,16 @@
 ---
-title: Happy Quasi Quadrennial
 layout: post
+title: Happy Quasi Quadrennial
 date: 29 feb 2016
+categories: motivation
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 2
+feature_image: feature-motivation
+show_related_posts: false
+square_related: feature-motivation
 location: Providence
 ---
 

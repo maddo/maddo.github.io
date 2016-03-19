@@ -1,7 +1,16 @@
 ---
-title: Getting GTD Done
 layout: post
+title: Getting GTD Done
 date: 05 March 2016
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 5
+feature_image: feature-work
+show_related_posts: false
+square_related: feature-work
 location: Providence
 ---
 

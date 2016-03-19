@@ -1,7 +1,16 @@
 ---
-title: Tool Tweaker
 layout: post
+title: Tool Tweaker
 date: 2016-02-15
+categories: motivation
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 3
+feature_image: feature-work
+show_related_posts: false
+square_related: feature-work
 location: Providence
 ---
 

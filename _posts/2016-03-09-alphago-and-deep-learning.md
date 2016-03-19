@@ -1,7 +1,16 @@
 ---
-title: AlphaGo and Deep Learning
 layout: post
+title: AlphaGo and Deep Learning
 date: 09 March 2016
+categories: analysis
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 5
+feature_image: feature-go
+show_related_posts: false
+square_related: feature-go
 location: Providence
 ---
 

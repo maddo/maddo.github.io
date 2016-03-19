@@ -1,7 +1,16 @@
 ---
-title: Ready Set Check-off
 layout: post
+title: Ready Set Check-off
 date: 03 March 2016
+categories: motivation
+author_name: Mike
+author_url: /author/mike
+author_avatar: mike
+show_avatar: false
+read_time: 7
+feature_image: feature-motivation
+show_related_posts: false
+square_related: feature-motivation
 location: Providence
 ---
 
