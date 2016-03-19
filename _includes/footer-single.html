@@ -8,7 +8,7 @@
                 <p>Published <span>{{ page.date | date: "%b %-d, %Y" }}</span></p>
                 <p><a href="{{ page.author_url }}">{{ page.author_name | capitalize }}</a> in <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories.first | capitalize }}</a></p>
 
-                <div class="other-catergories">
+                <!-- <div class="other-catergories">
                     <h3>Also found in</h3>
 
                     <ul>
@@ -19,7 +19,7 @@
                         </li>
                         {% endfor %}
                     </ul>
-                </div>
+                </div> -->
 
             </div>
         </div><!-- end col -->
