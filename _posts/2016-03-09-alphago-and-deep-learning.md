@@ -16,9 +16,9 @@ location: Providence
 
 [AlphaGo](https://deepmind.com/alpha-go.html) is making news for a five-game match against top go player [Lee Sedol](https://en.wikipedia.org/wiki/Lee_Sedol).
 
-AlphaGo is a go computer engine built with deep learning. A vast number of games are fed into a neural network, and essentially at that point the humans let the program learn. Is this the promised future? Don't solve a problem, instead: define a successful outcome, give some initial data, and let the computer solve it. My friend [Fran](https://github.com/fran6co) put it this way: "because AI programming it's going to be more about building the teaching material than anything else, we'll be able to replace programmers with just teachers."
+AlphaGo is a go computer engine built with [deep learning](https://en.wikipedia.org/wiki/Deep_learning). A vast number of games are fed into a neural network, and we let the program learn. Is this the promised future? Don't solve a problem, instead: define a successful outcome, give some initial data, and let the computer solve it. My friend [Fran](https://github.com/fran6co) put it this way: "because AI programming it's going to be more about building the teaching material than anything else, we'll be able to replace programmers with just teachers."
 
-We'd be more excited about AI advancements if we had a more active role in it. In computer science we like the idea of tightly controlling the input, the output and the logic in between. At this point, we're starting to cross [Clark's technology/magic barrier](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#Clarke.27s_third_law).
+We'd be more excited about AI advancements if we had a more active role. In computer science we rely the idea of tightly controlling the input, the output and the logic in between. With deep learning, we're starting to cross [Clark's technology/magic barrier](https://en.wikipedia.org/wiki/Clarke%27s_three_laws#Clarke.27s_third_law).
 
 Put another way, the study of AI promises the chance to understand our own intelligence. Deep learning robs us of any such potential insights, as the computer is doing all the hard work.
 
