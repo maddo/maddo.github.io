@@ -2,15 +2,15 @@
 layout: post
 title: Hario Scale
 date: 26 Dec 2016
-categories: food
+categories: analysis
 author_name: Mike
 author_url: /author/mike
 author_avatar: mike
 show_avatar: false
 read_time: 4
-feature_image: feature-food
+feature_image: feature-motivation
 show_related_posts: true
-square_related: square-food
+square_related: feature-motivation
 location: Providence
 ---
 
