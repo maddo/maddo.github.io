@@ -21,7 +21,7 @@ In [this video about the actor model](https://channel9.msdn.com/Shows/Going+Deep
 
 The result is an arbitrarily large count.
 
-Of course I want to test this out for myself. In day four of the elixir intro from DailyDrip, [Processes and Messaging](https://www.dailydrip.com/topics/elixir/drips/processes-and-messaging-08687de7-07c6-4cc3-b6c6-4398d137820c), the example code creates an actor that an send "ping" and "pong" messages back and forth. This is the first concrete elixir code I've seen that uses messages. I'll use that example to try to model Hewitt's indeterminacy example.
+Of course I want to test this out for myself. In day four of the elixir intro from DailyDrip, [Processes and Messaging](https://www.dailydrip.com/topics/elixir/drips/processes-and-messaging-08687de7-07c6-4cc3-b6c6-4398d137820c), the example code creates an actor sends "ping" and "pong" messages back and forth. This is the first concrete elixir code I've seen that uses messages. I'll use that example to try to model Hewitt's indeterminacy example.
 
 After a bit of kludging, I ended up with this:
 
