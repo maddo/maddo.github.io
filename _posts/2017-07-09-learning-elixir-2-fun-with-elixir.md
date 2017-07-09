@@ -14,19 +14,19 @@ square_related: feature-work
 location: Providence
 ---
 
-In [this video about the actor model](https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) (which I shared in my [last post]({% post_url 2017-07-06-learning-elixir-1 %})) Hewitt talks about indetermency. Indetermency goes hand in hand with robust concurrency. He spoke of an actor, who upon receiving a start command will send two messages, a "go" message, and a "stop" message. They are sent via the _ether_, that is: they leave any formal, theoretical channel of the programming language and route via the real world of hardware. Consequently, there's no guarantee which one will arrive first.
+In [this video about the actor model](https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) (which I shared in my [last post]({% post_url 2017-07-06-learning-elixir-1 %})) Hewitt talks about indeterminacy. Indeterminacy goes hand in hand with robust concurrency. He spoke of an actor, who upon receiving a start command will send two messages, a "go" message, and a "stop" message. They are sent via the _ether_, that is: they leave any formal, theoretical channel of the programming language and route via the real world of hardware. Consequently, there's no guarantee which one will arrive first.
 
 * If the "go" message is received, a counter is incremented, and another "go" message is sent.
 * If the "stop" message is received, we report the counter and exit
 
 The result is an arbitrarily large count.
 
-Of course I want to test this out for myself. In day four of the elixir intro from DailyDrip, [Processes and Messaging](https://www.dailydrip.com/topics/elixir/drips/processes-and-messaging-08687de7-07c6-4cc3-b6c6-4398d137820c), the example code creates an actor that an send "ping" and "pong" messages back and forth. This is the first concrete elixir code I've seen that uses messages. I'll use that example to try to model Hewitt's indetermenency example.
+Of course I want to test this out for myself. In day four of the elixir intro from DailyDrip, [Processes and Messaging](https://www.dailydrip.com/topics/elixir/drips/processes-and-messaging-08687de7-07c6-4cc3-b6c6-4398d137820c), the example code creates an actor that an send "ping" and "pong" messages back and forth. This is the first concrete elixir code I've seen that uses messages. I'll use that example to try to model Hewitt's indeterminacy example.
 
 After a bit of kludging, I ended up with this:
 
 ```elixir
-defmodule Indetermency do
+defmodule Indeterminacy do
   def start do
     loop()
     # send(proc, {:go, 0}) #run this in iex
@@ -50,26 +50,25 @@ defmodule Indetermency do
 end
 ```
 
-Right away, I ran into some trouble figuring out how to display the count on receiving the "stop" message, as I don't yet know how to do something like global state. I didn't want to use my time to chase that down, so I just printed the counter on each "go" message receipt.
+Right away, I ran into some trouble figuring out how to display the count on receiving the "stop" message, as I'm not sure how an actor manages shared state. I didn't want to use my time for that, so I simply printed the counter on receipt of the "go" message.
 
-This code seems to work fairly well, but after `iex -S mix` in my working directory, I ended up with appears to be a single threaded repl, and don't know how to actually send two messages simulatenously. Instead, the results depend entirely on which of the two messages I send first, or how quickly I managed to send the "stop" following "go".
+This code seems to work fairly well, but after `iex -S mix` in the working directory, I ended up with appears to be a single threaded repl, and don't know how to actually send two messages simultaneously. Instead, the results depend entirely on which of the two messages I send first, or how quickly I managed to send "stop" following "go".
 
-Adding this:
+Executing this:
 
 ```
-proc = spawn(Indetermency, :start, [])
+proc = spawn(Indeterminacy, :start, [])
 send(proc, {:go, 0})
 send(proc, {:stop})
 ```
 
-...to the bottom of the elixir file and running it wasn't any more interesting:
+...from a script wasn't any more interesting:
  
 ```
-Compiling 1 file (.ex)
 go 0
 We've been asked to stop
 ```
 
-I'm definitely missing something here! Perhaps my system hasn't a disturbed enough ether for such a simple test. Perhaps it's just that I'm not sending these messages out simultaneously, or some combination of things. I could mess about adding sleeps into the scripts, but that's hardly a fine test of _ether_.
+I'm definitely missing something here! Perhaps my system needs a more turbulent ether. Perhaps it's that I'm not sending these messages simultaneously. I could try adding sleeps at some point in the execution, but that would hardly be a test to demonstrate inherent indeterminacy.
 
 In any case, this was fun, and I'll resume my daily drip lessons tomorrow. I've enjoyed this self-guided tour, despite not finding precisely what I'd set out to!
