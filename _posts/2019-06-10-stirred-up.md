@@ -18,7 +18,7 @@ I'm easily excited by technology and software, and am prone to getting swept awa
 
 Recently, a friend of mine reminded me how cool RSS is. I'd stopped reading via RSS a while back, for a variety of reasons, but thought it'd be worth trying out again. Searching for a nice client led me to NetNewsWire[^1], which just hit an alpha release and is already supremely usable and quite nice all around. The client fired up with some RSS feeds, one of which pointed me to macopenweb.com[^2], "a collection of open and indie Mac, iOS, and web apps that help promote the open web," and that was a fun read.
 
-Unsurprisingly, catching and reading RSS has meant reading ever more tech related content. A year-plus old post made it to the front page of HN RSS feed I read[^3] and it's pushing me to try emacs again, for the nth time[^4] (happily).
+Unsurprisingly, catching and reading RSS has meant reading ever more tech related content. A year-plus old post made it to the front page of the HN RSS feed I read[^3] and it's pushing me to try emacs again, for the nth time[^4] (happily).
 
 Finally, I'm playing with MailMate[^5] again, because it fits in with this vibe of sweet indie macOS apps that are made with love and show it.
 
