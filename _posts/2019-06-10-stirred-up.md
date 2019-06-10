@@ -20,7 +20,7 @@ Recently, a friend of mine reminded me how cool RSS is. I'd stopped reading via 
 
 Unsurprisingly, catching and reading RSS has meant reading ever more tech related content. A year-plus old post made it to the front page of HN RSS feed I read[^3] and it's pushing me to try emacs again, for the nth time[^4] (happily).
 
-Finally, I'm playing with MailMate again, because it fits in with this vibe of sweet indie macOS apps that are made with love and show it.
+Finally, I'm playing with MailMate[^5] again, because it fits in with this vibe of sweet indie macOS apps that are made with love and show it.
 
 
 [^1]: [http://netnewswireapp.com/](http://netnewswireapp.com/)
