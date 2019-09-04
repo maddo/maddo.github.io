@@ -14,7 +14,7 @@ square_related: square-cyberpunk-now
 location: Bristol, UK
 ---
 
-I've always wanted to share all of the sparkling examples of us living in the Cyberpunk future I read about when I was a kid. Time for some micro-blogging!
+Regularly, I find headlines and articles which remind me we're living in the Cyberpunk future I've enjoyed so much in books and movies. Time to microblog my curated stream of Cyberpunk Now discoveries!
 
 - **Deploy the water net!** (harvest water from air)
     - [https://www.sciencemag.org/news/2019/09/crystalline-nets-harvest-water-desert-air-turn-carbon-dioxide-liquid-fuel](https://www.sciencemag.org/news/2019/09/crystalline-nets-harvest-water-desert-air-turn-carbon-dioxide-liquid-fuel)
