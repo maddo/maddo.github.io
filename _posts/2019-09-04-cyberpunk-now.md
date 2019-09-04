@@ -2,7 +2,7 @@
 layout: post
 title: 'Cyberpunk Now'
 date: 04 Sep 2019
-categories: analysis
+categories: cyberpunk-now
 author_name: Mike
 author_url: /author/mike
 author_avatar: mike
