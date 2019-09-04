@@ -10,7 +10,7 @@ show_avatar: false
 read_time: 1
 feature_image: feature-work
 show_related_posts: true
-square_related: feature-work
+square_related: square-work
 location: Providence
 ---
 

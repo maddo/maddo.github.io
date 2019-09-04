@@ -10,7 +10,7 @@ show_avatar: false
 read_time: 1
 feature_image: feature-motivation
 show_related_posts: true
-square_related: feature-motivation
+square_related: square-motivation
 location: Buenos Aires
 ---
 
